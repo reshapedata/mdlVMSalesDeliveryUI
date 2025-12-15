@@ -6,7 +6,7 @@
 \usage{
 DeliveryLocationUI(
   tabTitle = "Delivery Location",
-  colTitles = c("Filter Area", "Operation Area", "Result Area"),
+  colTitles = c("Operation Area", "Column Setting", "Result Area"),
   widthRates = c(6, 6, 12),
   func_left = DeliveryLocationUI_left,
   func_right = DeliveryLocationUI_right,
